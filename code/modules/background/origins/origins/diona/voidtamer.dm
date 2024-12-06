@@ -8,32 +8,23 @@
 		/singleton/origin_item/origin/serz
 	)
 
-/singleton/origin_item/origin/emporium
-	name = "Emporium Voidtamer"
-	desc = "The largest of the Voidtamers, The Emporium is a highly mobile cluster known for selling living space fauna in exchange for credits and blood throughout Biesel and CoC space, however, more recently have begun to venture into the CRZ looking for customers. "
-	important_information = "Dionae from this cluster tend to come in every form and mind type, although primarily will still be cyclops forms. Dionae from voidtamer groups tend to be highly knowledgeable on spacefauna-related subjects due to their previous work."
+/singleton/origin_item/origin/creed
+	name = Celestial Creed of the Explorers"
+	desc = "The Celestial Creed of the Explorers, or the Lemurian Voidtamers, is a tributary cluster within the Confluence, operating deep within the enigmatic expanse of the Lemurian Sea—a lightless and treacherous region of space dominated by blackholes, strange creatures, and anomalous phenomena. This cluster stands apart from others for its deep connection to the mysterious and the unknown, specialising in the capture, study, and manipulation of anomalous lifeforms and cosmic events. The Celestial Creed is a collective of self-educated xenobiologists, explorers, and hunters, seeking out the strange and the impossible."
 	possible_accents = list(ACCENT_ROOTSONG, ACCENT_VOIDSONG, ACCENT_CRIMSONSONG, ACCENT_IRONSONG)
 	possible_citizenships = list(CITIZENSHIP_BIESEL, CITIZENSHIP_NRALAKK, CITIZENSHIP_CONSORTIUM, CITIZENSHIP_EKANE, CITIZENSHIP_COALITION)
 	possible_religions = list(RELIGION_ETERNAL, RELIGION_ETERNAL_ICHOR, RELIGION_ETERNAL_IRON, RELIGION_OTHER, RELIGION_NONE)
 
-/singleton/origin_item/origin/comets
-	name = "Comets Voidtamer"
-	desc = "The Comets of Commerce are a smaller-to-medium sized Voidtamer cluster known for primarily trading with the Scarabs and other space-based groups operating within the Coalition of Colonies."
-	important_information = "Dionae from this cluster tend to have more egalitarian mind types, preferring to have decisions be made amongst the entire gestalt over a sole leader. Dionae from voidtamer groups tend to be highly knowledgeable on spacefauna-related subjects due to their previous work."
+/singleton/origin_item/origin/congregation 
+	name = "Starbound Congregation of the Reclaimers"
+	desc = "The Starbound Congregation of the Reclaimers, or the Weeping Voidtamers, is a Tributary Cluster within the Confluence, a network of Dionae dedicated to the reclamation and repurposing of debris and ancient oddities. They tend to practice more voidic tendencies, which results in them being among the rarely seen clusters within the Confluence. The Reclaimers view themselves as the cosmic archaeologists of the void, delving into the remnants of derelict space stations and ruins within the Weeping Stars. Their mission is not merely to recover lost technology but to unravel and reintegrate the bizarre and often horrifying remnants of the Interstellar War."
 	possible_accents = list(ACCENT_ROOTSONG, ACCENT_VOIDSONG, ACCENT_CRIMSONSONG, ACCENT_IRONSONG)
 	possible_citizenships = list(CITIZENSHIP_BIESEL, CITIZENSHIP_NRALAKK, CITIZENSHIP_CONSORTIUM, CITIZENSHIP_EKANE, CITIZENSHIP_COALITION)
 	possible_religions = list(RELIGION_ETERNAL, RELIGION_ETERNAL_ICHOR, RELIGION_ETERNAL_IRON, RELIGION_OTHER, RELIGION_NONE)
 
-/singleton/origin_item/origin/rokz
-	name = "Rokz Voidtamer"
-	desc = "One of two competing voidtamer clans found operating near Moghes. Due to their history interacting Unathi, both clans tend to be fairly influenced by Unathi culture and religion, although do still a distinct identity from one another."
-	possible_accents = list(ACCENT_ROOTSONG, ACCENT_VOIDSONG, ACCENT_IRONSONG, ACCENT_CRIMSONSONG, ACCENT_SANDSONG, ACCENT_WASTESONG)
-	possible_citizenships = list(CITIZENSHIP_IZWESKI, CITIZENSHIP_BIESEL, CITIZENSHIP_COALITION)
-	possible_religions = list(RELIGION_THAKH, RELIGION_SKAKH, RELIGION_ETERNAL, RELIGION_ETERNAL_ICHOR, RELIGION_ETERNAL_IRON, RELIGION_OTHER)
-
-/singleton/origin_item/origin/serz
-	name = "Serz Voidtamer"
-	desc = "One of two competing voidtamer clans found operating near Moghes. Due to their history interacting Unathi, both clans tend to be fairly influenced by Unathi culture and religion, although do still a distinct identity from one another."
-	possible_accents = list(ACCENT_ROOTSONG, ACCENT_VOIDSONG, ACCENT_IRONSONG, ACCENT_CRIMSONSONG, ACCENT_SANDSONG, ACCENT_WASTESONG)
-	possible_citizenships = list(CITIZENSHIP_IZWESKI, CITIZENSHIP_BIESEL, CITIZENSHIP_COALITION)
-	possible_religions = list(RELIGION_THAKH, RELIGION_SKAKH, RELIGION_ETERNAL, RELIGION_ETERNAL_ICHOR, RELIGION_ETERNAL_IRON, RELIGION_OTHER)
+/singleton/origin_item/origin/choir 
+	name = "Umbral Choir of the Harvesters"
+	desc = "The Umbral Choir of the Harvesters. or the Arusha Voidtamers, is a tributary cluster within the Voidtamer Confluence, dwelling in the frontier of Arusha. Reclusive hunters, and cultivators of space xenobiology, each is bound to the rhythms of an incomprehensible cycle of predation and harvest. They do not kill for pleasure or profit but for the sustenance of their esoteric philosophy: life exists only to be consumed, and the boundaries between predator and prey are illusions crafted to avoid the truth of the Eternal’s hunger. The Choir operates in silent, ever-moving caravans of vessels, largely organic, and grown as opposed to built. The creatures they rear are neither tamed nor enslaved but harmonised within the resonance of the Tributary Cluster’s will."
+	possible_accents = list(ACCENT_ROOTSONG, ACCENT_VOIDSONG, ACCENT_CRIMSONSONG, ACCENT_IRONSONG)
+	possible_citizenships = list(CITIZENSHIP_BIESEL, CITIZENSHIP_NRALAKK, CITIZENSHIP_CONSORTIUM, CITIZENSHIP_EKANE, CITIZENSHIP_COALITION)
+	possible_religions = list(RELIGION_ETERNAL, RELIGION_ETERNAL_ICHOR, RELIGION_ETERNAL_IRON, RELIGION_OTHER, RELIGION_NONE)
