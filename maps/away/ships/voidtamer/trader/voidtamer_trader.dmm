@@ -3419,6 +3419,7 @@
 /area/voidtamer/trader/mining_blaster)
 "CY" = (
 /obj/structure/bed/roller/hover,
+/obj/item/geiger,
 /turf/simulated/floor/tiled/dark,
 /area/voidtamer/trader/supermatter)
 "Da" = (
@@ -3689,7 +3690,7 @@
 /area/voidtamer/trader/mining)
 "ES" = (
 /obj/structure/flora/pottedplant/crystal,
-/turf/simulated/floor/diona,
+/turf/simulated/floor/tiled/dark,
 /area/voidtamer/trader/supermatter)
 "EZ" = (
 /obj/effect/floor_decal/industrial/outline/engineering,
@@ -4553,7 +4554,7 @@
 /area/voidtamer/trader/temple)
 "LI" = (
 /obj/structure/diona/bulb,
-/obj/structure/flora/pottedplant/crystal,
+/obj/machinery/supermatter_growth_tray,
 /turf/simulated/floor/diona,
 /area/voidtamer/trader/supermatter)
 "LJ" = (
@@ -30987,7 +30988,7 @@ CK
 sD
 Uh
 re
-ES
+bs
 ZY
 kn
 RM
@@ -31503,7 +31504,7 @@ Yr
 Zt
 bs
 eJ
-dn
+ES
 DJ
 RJ
 Gm
@@ -31760,7 +31761,7 @@ xq
 Zt
 dn
 dn
-dn
+ES
 DJ
 Oh
 Gm
