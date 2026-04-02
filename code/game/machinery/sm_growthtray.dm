@@ -4,6 +4,5 @@
 	icon_state = "smtray"
 	anchored = FALSE
 	density = TRUE
-
 	var/radioactivity  
 	radioactivity = 25
