@@ -4,13 +4,13 @@
 	icon_state = "smtray"
 	anchored = FALSE
 	density = TRUE
-	var/radioactivity  
+	var/radioactivity
 	radioactivity = 25
 
 /obj/machinery/supermatter_growth_tray/Initialize()
 	. = ..()
 	if(radioactivity)
-		START_PROCESSING(SSprocessing, src)		
+		START_PROCESSING(SSprocessing, src)
 
 /obj/machinery/supermatter_growth_tray/process()
 	SSradiation.radiate(src, radioactivity)
