@@ -5,4 +5,5 @@
 	anchored = FALSE
 	density = TRUE
 
+	var/radioactivity  
 	radioactivity = 25
